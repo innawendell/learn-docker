@@ -1,2 +1,2 @@
 # Supervised_learning
-projects
+The src folder contains two projects: one regression and one classifier
