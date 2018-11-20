@@ -1,4 +1,4 @@
-# What's In Your Food?
+# What's In Your Food? :rice:
 
 Note: the project files and the PowerPoint Presentation are located in **the src folder** in the same repo.
 
@@ -61,5 +61,5 @@ Models | Training Set Accuracy |Test Accuracy
 Random Forest| 0.9027| 0.87
 XGBoost Classifier| 0.903| 0.84
 
-### Potential Uses of Machine Learning Models:
+### Potential Uses of Machine Learning Models: :moneybag:
 Machine learning models could be actively used by voice assistants (for interactive Calorie prediction based on ingredients), diet apps (diet optimization, e.g. vegan, Ketogenic, gluten-free etc.), healthy food websites and market places (for food recommendation and automated products categorization). 
